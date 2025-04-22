@@ -1,0 +1,10 @@
+{
+  "name": "vulnerability-scanner",
+  "version": "1.0.0",
+  "description": "An MCP server for scanning vulnerabilities on IP addresses",
+  "command": "npm",
+  "args": ["run", "dev"],
+  "capabilities": {
+    "contextItemTypes": ["ip"]
+  }
+}
